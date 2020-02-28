@@ -1,2 +1,1 @@
-renderAccount( account );
-renderMonths ( months );
+renderAccount();
